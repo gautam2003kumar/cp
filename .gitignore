@@ -1,4 +1,6 @@
-input.txt
-output.txt
-error.txt
-./a.out
+/error.txt
+/input.txt
+/output.txt
+
+/graph/directedGraph/a.out
+/graph/a.out
